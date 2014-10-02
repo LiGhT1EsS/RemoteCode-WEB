@@ -21,11 +21,6 @@
 		return $input;
 	}
 
-	// cloud storage
-	// $accessKey = "G0_LpZONTRB81G4EUtAOrActmdqJ28b6ucLOqrCI";
-	// $secretKey = "5frYTuKZwK3bmOLsFyDiYYFh_TfDHUUNxcwZkfcI";
-	// $bucket = "hduisa";
-	// $domain = "hduisa.qiniudn.com";
 
 	function getRandString($len=8)
 	{
